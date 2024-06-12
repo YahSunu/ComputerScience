@@ -1,0 +1,14 @@
+# 忽略草稿
+draft/**
+drafts/**
+
+# 忽略代码目录
+Code/**
+Codes/**
+
+
+# 资源文件
+resources/**
+
+# 工作台
+workbench
